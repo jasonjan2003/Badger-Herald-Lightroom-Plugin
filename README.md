@@ -1,0 +1,1 @@
+# Badger-Herald-Lightroom-Plugin
